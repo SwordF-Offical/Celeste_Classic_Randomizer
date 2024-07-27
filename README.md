@@ -6,8 +6,9 @@ A Pico-8 cart mod of Celeste Classic that randomizes the vanilla game with in-ga
 Second Official Update.
   - Fixed Strawberry bug way back from v0.1
   - Added "none" and basic proceedrual generation as terrain options
-  - Added QoL to Settings UI
   - Added Tile, Invisible, and Random as Graphic Options
+  - Map-Loading takes less space.
+  - Added QoL to Settings UI
 
 # v1.0
 Original Official Release.

@@ -1,5 +1,5 @@
 # Celeste_Classic_Randomizer
-A Pico-8 cart mod of Celeste Classic that randomizes the vanilla game with in-game settings using a user-selected seed.
+A Pico-8 cart mod of Celeste Classic that randomizes the vanilla game with in-game settings using user-selected options.
 
 # Update Log
 # v1.2.1
